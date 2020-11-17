@@ -1,2 +1,2 @@
-# resume_V1
-Resume built with just HTML and CSS
+# personal_web_V1
+A reponsive website built with HTML and CSS. 
