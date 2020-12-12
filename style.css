@@ -82,6 +82,7 @@ header nav{
 #resume{
     min-height: 1000px;
     background-color: #A8D0E6;
+    font-size: 20px;
 }
 
 #personalInfo{
@@ -89,14 +90,34 @@ header nav{
     margin-bottom: 30px;
 }
 
+
 #objective{
     font-weight: bold;
-    font-size: 15px;
+    font-size: 30px;
 }
 
 
 .rightMargin{
     float: right;
+}
+
+/* Contacts */
+
+#contactme{
+    background-color: #A8D0E6;
+    font-size: 20px;
+}
+
+#contactme textarea{
+    padding: 0;
+    width: 20%;
+    height: 50%;
+}
+
+#contactme button{
+    width: 15%;
+    height: 30px;
+    margin-bottom: 30px;
 }
 
 /* Footer */
